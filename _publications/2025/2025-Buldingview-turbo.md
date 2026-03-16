@@ -1,5 +1,5 @@
 ---
-title:          "BuildingMultiView: Powering Multi-Scale Building Characterization with Large Language Models and Multi-Perspective Imagery"
+title:          "BuildingView-Turbo: Building Center Database Construction Using Satellite and Street View Imagery with Multi-Version LLMs"
 date:           2025-02-01 00:01:00 +0800
 selected:       true
 #pub:            ""
@@ -14,11 +14,10 @@ cover:  /assets/images/covers/2025-Buldingview-tutbo.png
 authors:
   - Zongrong Li
   - Yunlei Su
-  - Filip Biljecki
   - Wufan Zhao#
 
 links:
-  Paper: https://doi.org/10.1016/j.jag.2025.105034
+#Paper: https://arxiv.org/abs/2409.19527
 #Code: https://github.com/ai4city-hkust/buildingview_turbo
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

@@ -1,10 +1,10 @@
 ---
-title:          "Bridging Street View Coverage Disparities through Geographic Identity Preserving Generation from Satellite View"
+title:          "GPS-Sat2SVI: GPS-Based Remote Sensing with Style Consistency for Street View Image Generation"
 date:           2025-03-15 00:01:00 +0800
 selected:       true
 #pub:            ""
 #pub_pre:        ""
-pub_post:       'Under Review, ISPRS Journal of Photo grammetry and Remote Sensing'
+pub_post:       'Ongoing'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
@@ -13,8 +13,6 @@ pub_date:       "2025"
 cover:  assets/images/covers/2025-Sat2SVI.png
 authors:
   - Zongrong Li
-  - Fan Zhang
-  - Shaoqiong Dai
   - Wufan Zhao#
 
 links:
