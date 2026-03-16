@@ -10,8 +10,8 @@ positions:
 
 email: "CLI034@e.ntu.edu.sg"
 # cv_link: /assets/CV/cv.pdf  #IDK
-# gscholar: XbCCGC4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-# github: Jasper0122
+gscholar: https://scholar.google.com/citations?user=6DhdaAsAAAAJ&hl=zh-CN  # This is an example, replace it with your own Google Scholar ID
+github: https://github.com/LiChenyang0820
 # twitter: Jasperli0122  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >- 
@@ -26,24 +26,27 @@ short_bio: >-
     I am an interdisciplinary researcher interested in enhancing robots' perception and decision-making capabilities through advanced DL/RL algorithms, especially large models-powered methods, 
     while improving the robustness and safety of robots in complex tasks and environments, and exploring broader application scenarios of embodied AI.
     
-  <img src="assets/images/photos/research interest-2.png" alt="Research Interests" 
-           style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
+  # <img src="assets/images/photos/research interest-2.png" alt="Research Interests" 
+  #          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
   <p>
-    Currently, I am seeking a <strong>Ph.D. position</strong> starting in Spring/Fall 2026.
-    I am pursuing a Master of Science in Data Science at the  
-    <a href="https://www.ntu.edu.sg/computing" target="_blank">College of Computing and Data Science, Nanyang Technological University</a>, 
-    with an expected graduation in Jan 2026. Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology at the
+    Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2027.
+    I got a Master of Science in Data Science at the  
+    <a href="https://www.ntu.edu.sg/computing" target="_blank">College of Computing and Data Science, Nanyang Technological University</a>.
+    Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology at the
     <a href="https://sstc.neuq.edu.cn/" target="_blank">Sydney Smart Technology College, Northeastern University (China)</a>,
     under the supervision of Prof. <a href="https://liguorui77.github.io/" target="_blank">Guorui Li</a>
   </p>
 
   <p>
-    I am also a Reasearch Assistance in SPRL Lab at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>,
-    working with Prof. <a href="https://personal.ntu.edu.sg/yangliu/" target="_blank">Yang Liu</a>, 
-    Dr. <a href="https://kreattang.github.io/" target="_blank">Wenbing Tang</a>, 
-    and Dr. <a href="https://huang-yihao.github.io/" target="_blank">Yihao Huang</a>.
+    I am also a Research Assistant in <a href="https://ids.nus.edu.sg/" target="_blank"> Institute of Data Science </a> at National University of Singapore,
+    working with Dr. <a href="https://ryliu68.github.io/" target="_blank">Renyang Liu</a>, 
+    under the supervision of Prof. <a href="https://www.comp.nus.edu.sg/~ngsk/" target="_blank">See-Kiong Ng</a>.
+    During my master's degree, I was also a Research Assistant in SPRL Lab at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>,
+    working with Dr. <a href="https://kreattang.github.io/" target="_blank">Wenbing Tang</a>, 
+    and Dr. <a href="https://huang-yihao.github.io/" target="_blank">Yihao Huang</a>,
+    supervised by with Prof. <a href="https://personal.ntu.edu.sg/yangliu/" target="_blank">Yang Liu</a>.
     Previously, I was a Research Assistant at <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
     working in PEAK Lab with Prof. <a href="https://changhao-chen.github.io/" target="_blank">Changhao Chen</a>. 
     Before that, I worked as a Software Development Engineer Intern at 
@@ -59,17 +62,21 @@ education:
 - name: Nanyang Technological University
   logo: /assets/images/badges/ntu.png
   position: M.S. in Data Science
-  date: Aug 2024 - present
+  date: Aug 2024 - Jan 2026
 - name: Northeastern University (China)
   logo: /assets/images/badges/neu.png
   position: B.Eng. in Computer Science & Technology
   date: Sep 2020 - Jul 2024
 
 experience:
+- name: National University of Singapore
+  logo: /assets/images/badges/nus.png
+  position: Research Assistant - IDS
+  
 - name: Nanyang Technological University
   logo: /assets/images/badges/ntu.png
   position: Research Assistant - SPRL Lab
-  date: Dec 2024 - Present
+  date: Dec 2024 - Dec 2025
   
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/UST.svg.png
