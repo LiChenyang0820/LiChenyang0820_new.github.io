@@ -3,7 +3,7 @@ title:          "Shedding Light on VLN Robustness: A Black-box Framework for Ind
 date:           2026-02-21 00:01:00 +0800
 selected:       true
 #pub:            ""
-pub_pre:        "Accepted to CVPR 2026"
+pub_pre:        "Accepted to CVPR"
 #pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
